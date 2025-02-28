@@ -25,11 +25,9 @@ REDIS_PORT=6379
 REDIS_DATABASE=0
 
 JWR_SECRET_KEY=your_jwt_secret_key
-
 ```
 ## Start the server
 use Makefile to run app
 ``` 
 make
-
 ```
